@@ -18,6 +18,8 @@ The product should remain useful as the person grows familiar with the practice.
 
 Scripture is the foundation of each daily subject. William Branham excerpts support it with clear attribution. The supplied reference *The Prophet Elisha* (54-0723, paragraph 10) calls for daily Bible reading and prayer and bringing decisions before God.
 
+Paulo clarified the editorial boundary on 13 September 2026: the product should remain consistent with his Scripture-and-Branham foundations, including prayer in Jesus' name. Broad ecumenical source blending is not the intended editorial approach. Comparable products can inform interaction design without supplying devotional theology. Assess each proposed commentary, quotation and prayer against the agreed foundations; do not infer a comprehensive doctrinal policy without reviewing the relevant sources with Paulo.
+
 Other supplied foundations include private prayer in Matthew 6:6; the Lord's Prayer in Matthew 6:9–13; sincerity and worship in *The Supernatural* (56-0129, paragraph 34); waiting and listening in *Hear His Voice* (58-1005M, paragraph 34); and private prayer in *Church Order* (63-1226, paragraphs 84 and 92).
 
 Luther's *A Simple Way to Pray* informs responding through instruction, thanksgiving, confession, and petition, and remaining with a thought that opens into prayer. The Apostles' Creed is excluded, as Paulo requested. These are source foundations, not a requirement to use every source in every session.

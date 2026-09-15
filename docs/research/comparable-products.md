@@ -109,6 +109,39 @@ These are proposals for the next design pass. They do not settle platform, monet
 
 ## Next research work, before implementation
 
+### Screenshot follow-up — 13 September 2026
+
+Evidence: Paulo's supplied screenshots IMG_2740.PNG through IMG_2748.PNG, located in his Downloads folder, plus his account of using the apps. Images were inspected in the conversation; not copied into the repository. No new independent app testing was performed.
+
+**Lectio 365 content progression:** IMG_2740 shows a Global Week of Prayer series titled “At the Name of Jesus,” with dated entries including Image of the Invisible God (Colossians 1:15–20), Eternal King (1 Timothy 1:15–17), Lord of Lords (1 Timothy 6:11–16), and Shepherd and Overseer (1 Peter 2:21–25). This supports an observed common weekly theme with distinct daily passages. It does not by itself establish cumulative lessons or that each day requires the previous one. Paulo experienced this as progression.
+
+**Theological fit:** Paulo objects to the ecumenical mixture of Protestant and Catholic sources and wants Devotionals to remain consistent with its Scripture-and-Branham foundations. He did not hear the prayers he tried finish in Jesus' name. Preserve that specific observation: IMG_2740 explicitly describes praying in the name of Jesus, so the evidence does not support a general claim that Lectio 365 omits or rejects prayer in His name. The broader editorial mismatch remains a stated user constraint.
+
+**YouVersion, as attributed by Paulo:** IMG_2745 shows a brief breathing/reflection prompt with segmented navigation and an audio control; IMG_2746 shows an ending for Quieting Digital Noise. Paulo describes tap-to-advance Scripture, commentary and prayer prompts. These two screenshots contain no visible app branding, so their attribution is based on his report rather than independently established by the images. Avoid inferring weekly content progression from these individual screens.
+
+**Inner Room:** IMG_2741 and IMG_2744 explicitly distinguish Personal Prayers, shared Daily Prayer and themed Guided Prayers. Consequently, Paulo's unguided experience describes the personal prayer mode he tried, not the absence of guided prayer throughout the app. IMG_2742 documents optional expiry dates, grouping into Pots, and card size/color choices. IMG_2743 documents starting from a prayer card and continuing through the feed or a selected Pot. IMG_2744 documents tap navigation, left/right movement and session progress bars for both personal and guided sessions. IMG_2747 shows separate Prayers, Guided and Pots navigation, a creation button and a Global Week of Prayer entry.
+
+IMG_2748 shows a personal prayer subject and description, Finish button and audio control. Paulo reports ambient sound and an open-ended session until he chooses Finish; these temporal/audio behaviors cannot be established from the static image alone. He reports the app is free. Treat the displayed financial prayer as example screen content, not evidence about Paulo's finances.
+
+**Implications:** A coherent shared devotional series and user-paced prayer are compatible. Preserve reflective depth from the original trial while letting each prompt remain available until the person chooses the next. Personal prayer subjects are a candidate for continuation beyond today's devotional; grouping, dates and customization are separate scope decisions, not automatically first-version requirements. Inner Room is now a priority interaction comparator, while its guide identifies 24-7 Prayer as its content source, so theological suitability must be assessed separately.
+
+**Next design artifact proposed:** Sketch the transition from today's Scripture and sermon excerpt into a reflective prompt, an open-ended period of personal prayer with optional ambient sound, and an optional next movement. Explore adding a personal concern without requiring the user to organize a prayer library first. This applies the research without restarting the Session 1 text revisions.
+
+### Follow-up: Paulo's hands-on observations
+
+Reported after the initial desk research. Paulo followed a week in Lectio 365 and YouVersion and also inspected Pray As You Go and Hallow. Exact session dates, platform, and app versions were not supplied. These observations supplement the desk research; they are one person's experience, not a full feature audit.
+
+- **Lectio 365:** Closest fit for guidance, background music, and Scripture reflection. Tutorial lasted 4:17; the night prayer tried lasted nine minutes with Intro, Reflect, Rejoice, Repent, Rest. Morning, afternoon, and night reminders were set in the app. Paulo saw no in-app purchases and perceived a simple shared prayer experience. Guidance felt too forceful, with no evident moment for him to pause and reflect. This does not establish that playback pause controls are absent. He did not hear prayers concluded in Jesus' name in the material tried, and found no William Branham quotations.
+- **Pray As You Go:** Elegant design, but navigation felt less clear. Pope-related content and the Catholic orientation made theological fit low for Paulo. Topic categories included mental health and children/youth. The daily prayer felt more like a Mass summary to him. Deprioritize as a direct product model; this is his experience, not a universal description of its content.
+- **Hallow:** Paulo ruled it out as a fit because of Catholic orientation and in-app purchases.
+- **YouVersion:** Already useful to Paulo for Bible versions, plans, references, and prayer notifications. The prayer experience he tried was a scrollable Scripture/comment/prayer-prompt sequence with optional ambient sound. It felt too simple for the guided prayer experience he wants and secondary to the app's broader Bible role.
+
+**Design implications to examine:** Preserve the depth Paulo appreciated in Lectio 365 while making space for personal prayer explicit and user-paced. Text and optional audio should allow someone to linger without feeling the next movement is due. Theological fit includes Scripture, supporting Branham excerpts, and prayer in Jesus' name; exact authored wording remains an editorial decision. Absence of purchases was valued, but no funding model has yet been chosen.
+
+**Next focused question:** Across the week, did subjects build on one another or stand independently, and did the shared reading provide something Paulo brought into his own prayer? This can inform content progression without another round of Session 1 rewrites. Glorify and the friend's devotional remain uninspected by Paulo in this report.
+
+The work below was proposed by the original desk research. The hands-on comparison is now partially complete as recorded above; avoid asking Paulo to repeat it wholesale.
+
 **Priority hands-on walkthrough:** Inspect one ordinary day in Lectio 365, Glorify, and YouVersion; listen to a Pray As You Go session; inspect Hallow's introductory and pacing options where freely accessible. Use the same observation sheet: steps before the reading, reading length, where the text becomes a personal question, how long silence lasts, how to linger, how to resume after putting the device down, and what the ending communicates. Record product/platform/date and distinguish observed behavior from inference.
 
 **Editorial sample:** Examine an ordinary week and a seasonal week from the strongest comparators. Record passage scope, topic continuity, source attribution, Sunday handling, and whether each day works on its own. This report establishes that calendar patterns exist; it has not measured their consistency across a full week.
