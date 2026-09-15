@@ -1,0 +1,35 @@
+# Installable mobile experience prototype
+
+Live: https://paulobfsilva.github.io/devotionals/
+
+This is a reviewable, single-day prototype, not the production application. Source lives on `codex/prayer-experience-prototype`; only this directory is deployed to the `gh-pages` branch. No build dependencies.
+
+## Try it on iPhone
+
+Open the live link in Safari, use Share → Add to Home Screen, and enable Open as Web App if offered. Open the installed icon once online. Settings reports when offline caching finishes. Safari and the installed app may have separate saved progress.
+
+Open the devotional, begin with guidance, set the guide aside, and return when ready. The same movement remains selected. “Next invitation” is a separate choice. You can also begin quietly from the reading. Rain starts only on request and stops when leaving the prayer space. Use device volume controls on browsers that ignore the slider.
+
+## Scope
+
+- Complete KJV sample reading, supplied Branham excerpt, original reflection and five prayer movements.
+- Mobile layout, install manifest/icons, service worker and cached rain recording.
+- Locally saved view, movement, concern and volume; no account or server storage.
+- App supports closing without finishing all movements and returning after interruption.
+- No publishing calendar, push reminders, licensed worship-song library or approved editorial content yet.
+
+## Verification on 15 September 2026
+
+Hosted browser check: full reading → guidance → quiet → return; reload restored quiet view and movement; a temporary concern survived reload and was removed after checking; rain entered playing state and stopped on leaving prayer; offline cache reported ready. Phone-width rendering checked at 390 × 844. JavaScript syntax passed for app and service worker.
+
+Actual iPhone Home Screen installation, disconnected launch and locked-screen playback still require device verification. App content remains pending Paulo's review. No claim of established routine formation is made.
+
+## Run and publish
+
+For local development, serve this directory with `python3 -m http.server 8765 --bind 127.0.0.1`. Installation and service workers require HTTPS or localhost; the public preview provides HTTPS.
+
+To deploy updates from the prototype branch, commit this directory, run `git subtree split --prefix=prototypes/mobile -b codex/mobile-deploy`, and push that branch to `gh-pages`. When the local deployment branch already exists, use a fresh temporary branch name for the split. Pages is configured to serve the deployment branch root.
+
+Bump the cache name in `sw.js` whenever a deployed runtime asset changes. New service workers wait for existing sessions to close, so updates do not interrupt prayer. Close all app tabs/windows and reopen after an update.
+
+Audio provenance and source notes are in CREDITS.md.
