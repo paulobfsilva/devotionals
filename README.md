@@ -13,3 +13,7 @@ A product in early design for daily Bible reading, meditation, and guided person
 - [Initial market research](docs/research/comparable-products.md)
 
 Open design and research decisions are tracked in [GitHub Issues](https://github.com/paulobfsilva/devotionals/issues). Implementation has not started.
+
+## Native mobile prototype
+
+The iOS/Android experience prototype is in [prototypes/native](prototypes/native/README.md). Run it with Expo Go to review the mobile reading-to-prayer flow. It is separate from the hosted web prototype.

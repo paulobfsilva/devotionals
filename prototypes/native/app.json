@@ -1,0 +1,36 @@
+{
+  "expo": {
+    "name": "Devotionals",
+    "slug": "devotionals-prototype",
+    "version": "0.1.0",
+    "orientation": "portrait",
+    "icon": "./assets/devotionals.png",
+    "scheme": "devotionals",
+    "userInterfaceStyle": "light",
+    "ios": {
+      "supportsTablet": true,
+      "bundleIdentifier": "com.paulobfsilva.devotionals.prototype"
+    },
+    "android": {
+      "package": "com.paulobfsilva.devotionals.prototype",
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/devotionals.png",
+        "backgroundColor": "#233F35"
+      }
+    },
+    "web": {
+      "favicon": "./assets/devotionals.png"
+    },
+    "plugins": [
+      [
+        "expo-audio",
+        {
+          "microphonePermission": false,
+          "recordAudioAndroid": false,
+          "enableBackgroundPlayback": true
+        }
+      ],
+      "expo-asset"
+    ]
+  }
+}
