@@ -41,3 +41,7 @@ Replaced the storm-like rain with “God Is My Everything” by Harmony-of-Heave
 ## Reading flow revision · 19 September 2026
 
 Review question: do explicit next-step labels and subtle transitions make the devotional flow naturally into personal prayer? The reading now unfolds through Scripture, sermon excerpt, reflection and prayer invitation, with a visible location indicator and a next action naming its destination. Back returns to the preceding reading; reload preserves the current section. Prayer controls distinguish praying with the current thought, moving to the next invitation and closing. Transitions are brief and user-triggered; the quiet screen has no repeating motion. Reduced-motion preferences disable transitions. This is a targeted revision of the existing experience, awaiting Paulo’s feedback.
+
+## Clarifying prayer controls · v4
+
+Buttons now explain the interface action: hide guidance while praying, show prayer suggestions, write a concern and choose a prayer topic. Next buttons name their destination. Transitions now travel 28px over 480ms (650ms fade for quiet prayer), including initial entry; reduced-motion preferences remain respected. Versioned script and stylesheet URLs prevent an older worker from mixing old assets into the new page. Use `?v=4` on the live URL to load this revision even while an older app session remains open. The old worker can otherwise keep an earlier page cached until its tabs close. Browser verification cannot establish which version was on a separate phone when feedback was recorded.
