@@ -37,3 +37,7 @@ Audio provenance and source notes are in CREDITS.md.
 ## Audio revision · 16 September 2026
 
 Replaced the storm-like rain with “God Is My Everything” by Harmony-of-Heaven from Pixabay (10:18 solo piano). It plays only on request, loops during prayer, and is cached for offline use. Source and license are linked in settings and CREDITS.md. The service-worker cache is v2; existing installations need all app windows closed and reopened after the update downloads. Listening feedback on an actual phone remains the suitability check.
+
+## Reading flow revision · 19 September 2026
+
+Review question: do explicit next-step labels and subtle transitions make the devotional flow naturally into personal prayer? The reading now unfolds through Scripture, sermon excerpt, reflection and prayer invitation, with a visible location indicator and a next action naming its destination. Back returns to the preceding reading; reload preserves the current section. Prayer controls distinguish praying with the current thought, moving to the next invitation and closing. Transitions are brief and user-triggered; the quiet screen has no repeating motion. Reduced-motion preferences disable transitions. This is a targeted revision of the existing experience, awaiting Paulo’s feedback.

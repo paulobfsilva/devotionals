@@ -1,4 +1,4 @@
-const CACHE='devotionals-mobile-v2';
+const CACHE='devotionals-mobile-v3';
 const FILES=['./','index.html','style.css','app.js','manifest.webmanifest','assets/icon-192.png','assets/icon-512.png','assets/prayer-piano.mp3'];
 self.addEventListener('install',event=>event.waitUntil(caches.open(CACHE).then(c=>c.addAll(FILES))));
 self.addEventListener('activate',event=>event.waitUntil(caches.keys().then(keys=>Promise.all(keys.filter(k=>k.startsWith('devotionals-mobile-')&&k!==CACHE).map(k=>caches.delete(k)))).then(()=>self.clients.claim())));
